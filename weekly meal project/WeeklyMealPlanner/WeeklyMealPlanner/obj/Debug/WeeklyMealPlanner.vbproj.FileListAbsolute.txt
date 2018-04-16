@@ -1,0 +1,168 @@
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.Resources.resources
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.GenerateResource.Cache
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll.config
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.pdb
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebForms_Basic.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Owin.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Providers.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebGrease.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.pdb
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.dll
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WebForms_Basic.xml
+E:\Projects\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.pdb
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll.config
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.pdb
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebForms_Basic.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.bootstrap.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.jQuery.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.WebForms.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Web.Infrastructure.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Owin.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Providers.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebGrease.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.pdb
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbprojResolveAssemblyReference.cache
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.Resources.resources
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.GenerateResource.cache
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.CoreCompileInputs.cache
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.CopyComplete
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.dll
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WebForms_Basic.xml
+D:\EB\Master\Master semester 4\Open Source Technology\Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.pdb
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll.config
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WeeklyMealPlanner.pdb
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebForms_Basic.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\AspNet.ScriptManager.jQuery.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Web.Infrastructure.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Owin.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Providers.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\WebGrease.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\System.Web.Optimization.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Antlr3.Runtime.pdb
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Newtonsoft.Json.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\EntityFramework.SqlServer.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Google.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbprojResolveAssemblyReference.cache
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.Resources.resources
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.GenerateResource.cache
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.CoreCompileInputs.cache
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.vbproj.CopyComplete
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.dll
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WebForms_Basic.xml
+D:\Weekly Meal Project\WeeklyMealPlanner\WeeklyMealPlanner\obj\Debug\WeeklyMealPlanner.pdb

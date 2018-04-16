@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="47d37135-36dc-4111-bfa5-2c5be7377291" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2042/FoodSecretService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FoodSecretService.disco" MetadataType="Disco" ID="dc0de72a-17d1-4e05-bed4-a91b72081d77" SourceId="1" SourceUrl="http://localhost:2042/FoodSecretService.svc?disco" />
+    <MetadataFile FileName="FoodSecretService.xsd" MetadataType="Schema" ID="fc80ea25-8795-46f7-92ba-f8371df1e9c5" SourceId="1" SourceUrl="http://localhost:2042/FoodSecretService.svc?xsd=xsd2" />
+    <MetadataFile FileName="FoodSecretService1.xsd" MetadataType="Schema" ID="7de4a39c-1ac0-4362-9777-50b606c6ece6" SourceId="1" SourceUrl="http://localhost:2042/FoodSecretService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FoodSecretService.wsdl" MetadataType="Wsdl" ID="fcaa858b-663b-4ad6-b1e3-7458600ff30b" SourceId="1" SourceUrl="http://localhost:2042/FoodSecretService.svc?wsdl" />
+    <MetadataFile FileName="FoodSecretService2.xsd" MetadataType="Schema" ID="7c05bac3-f3f4-4955-b884-d004acba4064" SourceId="1" SourceUrl="http://localhost:2042/FoodSecretService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
