@@ -104,6 +104,39 @@ Public Class FoodSecretService
         Return rtrnResult
     End Function
 
+'Match Recipes to Daily Calories
+    Public Function MatchRecipesDailyCalories(ByVal targetCalories As Integer) As DailyMeals Implements IFoodSecretService.MatchRecipesDailyCalories
 
+        Dim apiUrl As String = "https://spoonacular-recipe-food-nutrition-v1.p.mashape.com/recipes/mealplans/generate"
+        Dim params As String = "targetCalories=" + targetCalories.ToString() + "&timeFrame=day"
+        Dim client As New WebClient
+
+        client.Headers.Add("X-Mashape-Key", apiKey)
+        client.Headers.Add("Accept", acceptHeader)
+        Dim result As String = client.DownloadString(String.Format("{0}?{1}", apiUrl, params))
+
+        Dim jsonObj As JObject = JsonConvert.DeserializeObject(Of Object)(result)
+
+        Dim rtrnResult As New DailyMeals()
+        rtrnResult.meals = New List(Of Meal)()
+
+        If jsonObj("meals").Count > 0 Then
+            For Each obj As JObject In jsonObj("meals")
+                Dim mealObj As Meal = New Meal()
+                mealObj.id = obj("id")
+                mealObj.image = "https://spoonacular.com/recipeImages/" + obj("image").ToString
+                mealObj.readyInMinutes = obj("readyInMinutes")
+                mealObj.title = obj("title")
+                rtrnResult.meals.Add(mealObj)
+            Next
+        End If
+
+        rtrnResult.calories = jsonObj("nutrients")("calories")
+        rtrnResult.carbohydrates = jsonObj("nutrients")("carbohydrates")
+        rtrnResult.fat = jsonObj("nutrients")("fat")
+        rtrnResult.protein = jsonObj("nutrients")("protein")
+
+        Return rtrnResult
+    End Function
 
 End Class
