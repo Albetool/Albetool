@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
         <div class="jumbotron">
-        <h1>Weekly Meal Planner</h1>
+        <h1>Healthy Meals Planner</h1>
         <p class="lead">mealplanner.com is a free web site for helping people plan there weekly meals.</p>
          
     </div>
